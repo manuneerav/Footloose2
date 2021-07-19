@@ -204,9 +204,6 @@ requests==2.25.1
 requests-oauthlib==1.3.0
 rope 
 ruamel-yaml==0.15.87
-scikit-image==0.17.2
-scikit-learn 
-scipy 
 seaborn 
 Send2Trash==1.5.0
 simplegeneric==0.8.1
