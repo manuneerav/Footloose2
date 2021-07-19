@@ -178,7 +178,6 @@ pylint
 pylint-django==2.4.3
 pylint-plugin-utils==0.6
 PyNaCl 
-pyodbc===4.0.0-unsupported
 pyOpenSSL 
 pyparsing==2.4.7
 pyreadline==2.1
