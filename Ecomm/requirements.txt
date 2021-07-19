@@ -39,7 +39,6 @@ click-repl==0.2.0
 cloudpickle 
 colorama 
 comtypes==1.1.7
-conda==4.9.2
 conda-build==3.20.5
 conda-package-handling 
 conda-verify==3.4.2
